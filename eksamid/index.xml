@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eksamid on Pärnu Mantrailingu Klubi</title>
+    <link>https://www.parnumantrailinguklubi.eu/eksamid/</link>
+    <description>Recent content in Eksamid on Pärnu Mantrailingu Klubi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>et</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://www.parnumantrailinguklubi.eu/eksamid/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Katse eeskiri</title>
+      <link>https://www.parnumantrailinguklubi.eu/eksamid/katse-eeskiri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.parnumantrailinguklubi.eu/eksamid/katse-eeskiri/</guid>
+      <description>&lt;div style=&#34;position: relative; left: 50%; transform: translateX(-50%); width: 70vw; max-width: 1000px; margin: 40px 0;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://www.parnumantrailinguklubi.eu/failid/pmk-katse-eeskiri.pdf&#34; style=&#34;width: 100%; height: 900px; border: 1px solid rgba(255,255,255,0.2); border-radius: 4px; background: #ffffff; display: block;&#34;&gt;&#xA;    &lt;p&gt;Sinu brauser ei toeta PDF-ide otse kuvamist. Saate faili vaadata &lt;a href=&#34;https://www.parnumantrailinguklubi.eu/failid/pmk-katse-eeskiri.pdf&#34; style=&#34;color: #3b82f6; text-decoration: underline;&#34;&gt;siit kaudu&lt;/a&gt;.&lt;/p&gt;&#xA;  &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
